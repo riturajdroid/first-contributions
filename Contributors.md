@@ -1553,5 +1553,5 @@ varshini
 - [Joshua Chiu](https://github.com/AhhhhhChiu)
 - [Mahin Patel](https://github.com/mahin281207)
 - [qianqiang-del](https://github.com/qianqiang-del)
-- [Rituraj Sharma](https://github.com/riturajdroid)
 - [im-vaishnavi](https://github.com/im-vaishnavi)
+- [Rituraj Sharma](https://github.com/riturajdroid)
